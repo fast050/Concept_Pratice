@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/USER/AndroidStudioProjects/ConceptPratice/app/src/main/res/layout/activity_main.xml" value="0.5" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/ConceptPratice/detail/src/main/res/layout/detail_activity.xml" value="0.33489583333333334" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/ConceptPratice/detail/src/main/res/layout/detail_fragment.xml" value="0.33" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/ConceptPratice/home/src/main/res/layout/activity_home.xml" value="0.31875" />
+        <entry key="..\:/Users/USER/AppData/Local/Android/Sdk/platforms/android-32/data/res/layout/auto_complete_list.xml" value="0.3359375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
